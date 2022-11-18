@@ -1,4 +1,4 @@
-# Blind-75-LC
+# Blind 75 LeetCode Problems
 A list of all the Blind 75 problems from LeetCode
 
 https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
